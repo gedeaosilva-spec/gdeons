@@ -1,4 +1,4 @@
-# gdeons
+
 Lógica para o desenvolvimento
 O programa simula um pedido de lanchonete, Primeiro recebe a escolha e a quantidade do usuário, Depois usa pra identificar o lanche e calcular o total. Se o valor passar de R$20 e tiver 2 ou mais itens, aplica 10% de desconto.
 # Entrada de dados interna - cardápio com nome dos lanches
